@@ -7,6 +7,22 @@ https://github.com/facebook/react-native
 ###### Android Stadio
 
 
+```
+```
+
+
+```
+```
+
+
+```
+```
+
+```
+```
+
+
+
 
 
 
